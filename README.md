@@ -5,7 +5,8 @@
 The OpenSea Bot by David Nikolic is your ticket to NFT gold! This software makes automated offers on OpenSea listings, so you don’t have to spend every waking moment trying to find and buy NFT collections you’re after.
 
 <h2>The easiest way to send OpenSea offers</h2>
-<hr />
+<h3>Already added features:</h3>
+
 <p><strong>Stay carefree with 99.8% up-time</strong></p>
 <p>Every one of your automated offers will go out in time. That’s a guarantee. Our 99.8% up-time is something other bots can’t boast — and we’re working hard to push that to 100%!</p>
 
@@ -30,8 +31,7 @@ The OpenSea Bot by David Nikolic is your ticket to NFT gold! This software makes
 <p><strong>Unlimited usage</strong></p>
 <p>Send 1000s of offers every day. No cap. No slowdown. No additional fees.</p>
 
-<hr />
-Please check the offical website for a free trial or more information:
+<h2>Please check the offical website for a free trial or more information:</h2>
 <br />
 <strong>Official website:</strong> https://os-bot.com
 <br />
