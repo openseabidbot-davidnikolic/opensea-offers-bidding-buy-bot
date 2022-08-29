@@ -1,4 +1,4 @@
-# OpenSea Offers (Bidding) Bot by David NIkolic
+# OpenSea Offers (Bidding) Bot by David Nikolic
 
 <img src="https://cdn.os-bot.com/img/logo-icon.png" width="250" height="250" alt="OpenSea Bot Logo">
 
