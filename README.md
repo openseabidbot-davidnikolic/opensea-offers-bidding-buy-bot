@@ -31,7 +31,7 @@ The OpenSea Bot by David Nikolic is your ticket to NFT gold! This software makes
 <p><strong>Unlimited usage</strong></p>
 <p>Send 1000s of offers every day. No cap. No slowdown. No additional fees.</p>
 
-<h2>Please check the offical website for a free trial or more information:</h2>
+<h2>Please check the official website for a free trial or more information:</h2>
 <a href="https://os-bot.com"><img src="https://cdn.os-bot.com/img/logo-text.webp" alt="OpenSea Bot Logo" width="400"></a>
 <br />
 <strong>Official website:</strong> https://os-bot.com
