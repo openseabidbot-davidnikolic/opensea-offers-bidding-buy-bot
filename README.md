@@ -28,6 +28,12 @@ The OpenSea Bot by David Nikolic is your ticket to NFT gold! This software makes
 <p><strong>Bid based on specific traits</strong></p>
 <p>Select listings you want to bid on. Automate offers on collections with specific traits so you never miss out because you couldn’t log in to OpenSea.</p>
 
+<p><strong>Bid based on rarity</strong></p>
+<p>Sort the listings by rarity (ranking) and bid only to the most valuable NFTs.</p>
+
+<p><strong>Cutting-Edge Technology</strong></p>
+<p>You don't need to worry about whether the software will stop working, or the offers will fail. Rest assured, no matter how many offers you plan to send, the software will do its job.</p>
+
 <p><strong>Unlimited usage</strong></p>
 <p>Send 1000s of offers every day. No cap. No slowdown. No additional fees.</p>
 
